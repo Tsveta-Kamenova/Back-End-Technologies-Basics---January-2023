@@ -7,4 +7,4 @@ function printStudentInfo(name, age, averageGrade) {
 }
 
 // Example usage
-printStudentInfo('John', 15, 5.54678);
+//printStudentInfo('John', 15, 5.54678);
